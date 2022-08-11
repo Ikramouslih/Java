@@ -1,1 +1,0 @@
-A program where a class House contains doors, Windows, lights, and  methods to open, close doors/windows, turn on/off lights. 
