@@ -1,0 +1,1 @@
+- A simple program where a class House has doors, Windows, lights, and  methods to open, close doors/windows, turn on/off lights. (Inheritance and Polymorphism)
