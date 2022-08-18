@@ -41,7 +41,7 @@ public class SecureMenu {
 			System.out.println(i + ". "+myStack.get(i).toString());
 		}
 		
-		System.out.print("\nChoose an animal : ");
+		System.out.print("\nWhat animal sound do you wanna hear?  ");
 		int a = inputValidity(myStack.size());
 		
 		AnimalSounds hi = myStack.get(a);
